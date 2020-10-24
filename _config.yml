@@ -29,7 +29,7 @@ github_username:  tzfrazier
 
 # Build settings
 theme: minima
-theme: jekyll-theme-midnight
+theme: midnight
 plugins:
   - jekyll-feed
 
