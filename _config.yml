@@ -28,7 +28,7 @@ twitter_username: wildbookchase
 github_username:  tzfrazier
 
 # Build settings
-theme: jekyll-theme-midnight
+remote-theme: pages-themes/midnight
 plugins:
   - jekyll-feed
 
