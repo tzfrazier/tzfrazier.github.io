@@ -28,7 +28,7 @@ twitter_username: wildbookchase
 github_username:  tzfrazier
 
 # Build settings
-theme: minima
+theme: no-style-please
 plugins:
   - jekyll-feed
 
