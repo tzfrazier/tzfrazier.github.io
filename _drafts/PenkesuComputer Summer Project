@@ -1,0 +1,10 @@
+--
+layout: post
+title:  Summer Project Overview Penkesu Computer Fork
+catagories: [blog, Projects]
+tags: [July, 2022, July 2022, Computer Projects, Raspberry Pi, Obsidian]
+date: 6th July, 2022
+---
+This project is a fork of the Penkēsu (Japanese: ペンケース). a retro-style handheld device, designed by [[https://github.com/penk|Penk]]. I found a link to the project through boing boing. These pages document my own version of the project.
+
+The original project is powered by a Raspberry Pi Zero 2 W, a 7.9 inch widescreen display (1280 x 400 resolution), and a 48-key ortholinear mechanical keyboard. Due to supply change issues, I was unable to find a Pi Zero 2 W, but was able to find a Pi Zero W. Other changes will be tracked my [[|fork of the original repository]]. Additionaly, I lacked access to the technology needed to make my own PCB. I subsituted the custome keyboard for a Pancake 40% kit avaialbe [[here|MK Ultra Link]]
