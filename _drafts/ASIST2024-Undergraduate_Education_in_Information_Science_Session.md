@@ -11,6 +11,6 @@ This session is designed to bring together educators, administrators, and resear
 
 ## Session Resources
 Session Agenda  [.pdf]()
-Get access to the curriculum repository and add your program documents (google drive) [here]() \([Read me drive file]()) - PLEASE USE .edu EMAIL FOR REQUEST
-Add your programs contact information to the registry [here]() - PLEASE USE .edu EMAIL FOR REQUEST
-Meeting Minutes [here]()
+Get access to the curriculum repository and add your program documents (google drive) [here](https://docs.google.com/spreadsheets/d/1uNCMMJm_Q9Qc57dIXHrya-LXBFg8V4OxLPPFwhC8cU0/edit?usp=sharing) \([Read me drive file]()) - PLEASE USE .edu EMAIL FOR REQUEST
+Add your program's contact information to the registry [here](https://docs.google.com/spreadsheets/d/1uNCMMJm_Q9Qc57dIXHrya-LXBFg8V4OxLPPFwhC8cU0/edit?usp=drive_link) - PLEASE USE .edu EMAIL FOR REQUEST
+Meeting Minutes [here](https://docs.google.com/document/d/1aw81XAGxqM_kjlf6btedgBkiKQTm1LTJmrXvxD1Imw8/edit?usp=sharing)
