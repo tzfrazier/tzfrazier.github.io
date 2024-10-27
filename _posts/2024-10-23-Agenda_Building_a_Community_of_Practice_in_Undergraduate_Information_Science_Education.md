@@ -4,8 +4,8 @@ title:  "ASIS&T 2024 Undergraduate Education in Information Science Session: Age
 catagories: [Conference Session Agenda, ASIS&T 2024, Other]
 tags: [ASIST2024]
 date: October, 2024
----
-# Agenda: Building a Community of Practice in Undergraduate Information Science Education
+--
+## Agenda: Building a Community of Practice in Undergraduate Information Science Education
 This agenda is the proposed agenda for the session. Participants and modertators may deviate from this proposed agenda, if/when necessary during the session. 
 
 
